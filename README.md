@@ -1,1 +1,1 @@
-Website which contains study materials or Information about C++, Python and Java
+Website which contains study materials or Information of C++, Python and Java
