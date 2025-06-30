@@ -2,7 +2,7 @@
 
 A modern, animated, themeable web app for sharing and downloading programming study materials, cheat sheets, and tutorials.
 
-![StudyVerse Screenshot](img/screenshot.png)
+![StudyVerse Screenshot](img/logo.png)
 
 ---
 
@@ -21,7 +21,7 @@ A modern, animated, themeable web app for sharing and downloading programming st
 
 | Home (Light) | Home (Dark) |
 |:---:|:---:|
-| ![Light](img/screenshot-light.png) | ![Dark](img/screenshot-dark.png) |
+| ![Light](img/light.png) | ![Dark](img/dark.png) |
 
 ---
 
