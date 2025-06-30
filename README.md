@@ -35,3 +35,25 @@ A modern, animated, themeable web app for sharing and downloading programming st
 ---
 
 ## 📂 Folder Structure
+Programming-Materials/ ├── project/ │ ├── Project.html │ ├── project.css │ ├── project.js │ └── img/ │ └── logo.png │ └── screenshot.png │ └── screenshot-light.png │ └── screenshot-dark.png └── README.md
+
+---
+
+## 🧑‍💻 Getting Started
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/Rishabh028/Programming-Materials.git
+   cd Programming-Materials/project
+
+# With Python 3.x
+python -m http.server
+# Then visit http://localhost:8000/project/Project.html
+
+📄 License
+This project is licensed under the MIT License.
+
+🙋‍♂️ Author
+Rishabh Rajak
+⭐️ Show your support
+If you like this project, please ⭐️ the repo and share it!
