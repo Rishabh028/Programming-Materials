@@ -46,9 +46,10 @@ Programming-Materials/ ├── project/ │ ├── Project.html │ ├─�
    git clone https://github.com/Rishabh028/Programming-Materials.git
    cd Programming-Materials/project
 
-# With Python 3.x
-python -m http.server
-# Then visit http://localhost:8000/project/Project.html
+---
+## 🚀 Demo
+
+[**Live Demo**](https://rishabh028.github.io/Programming-Materials/)
 
 📄 License
 This project is licensed under the MIT License.
