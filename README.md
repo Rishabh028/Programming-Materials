@@ -35,7 +35,7 @@ A modern, animated, themeable web app for sharing and downloading programming st
 ---
 
 ## 📂 Folder Structure
-Programming-Materials/ ├── project/ │ ├── Project.html │ ├── project.css │ ├── project.js │ └── img/ │ └── logo.png │ └── screenshot.png │ └── screenshot-light.png │ └── screenshot-dark.png └── README.md
+Programming-Materials/ ├── index.html │ ├── project.css │ ├── project.js │ └── img/ │ └── logo.png │ └── light.png │ └── dark.png └── README.md
 
 ---
 
